@@ -128,7 +128,7 @@
         "appV2": {
           "type": "front-end",
           "id": "4b3e7d3a-2fc3-4eaa-8fd0-d68ba8dbd26d",
-          "name": "Inventory management system",
+          "name": "Inventory Management System",
           "slug": "4b3e7d3a-2fc3-4eaa-8fd0-d68ba8dbd26d",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -140,7 +140,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-03-24T09:20:31.082Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-03-24T09:20:31.780Z",
+          "updatedAt": "2025-03-24T09:32:22.244Z",
           "editingVersion": {
             "id": "1ad54c6c-d014-47a2-8b6a-600eec3cc37b",
             "name": "v1",
