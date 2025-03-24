@@ -1,10 +1,10 @@
 {
   "4b3e7d3a-2fc3-4eaa-8fd0-d68ba8dbd26d": {
     "gitAppName": "Inventory Management System",
-    "lastCommitMessage": "App Inventory management system  is renamed to Inventory management system",
-    "gitVersionId": "1ad54c6c-d014-47a2-8b6a-600eec3cc37b",
-    "lastpushDate": "2025-03-24T09:32:23.546Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app Inventory Management System",
+    "gitVersionId": "53fccb6e-819c-41b4-acf2-1c6535c1eddd",
+    "lastpushDate": "2025-03-24T09:34:44.106Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "Vaishnavi Joshi"
   }
 }
